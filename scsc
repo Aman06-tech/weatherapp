@@ -1,0 +1,36 @@
+                     <th style="width: 22%;">CLOUD_PCT</th>
+                    <th style="width: 22%;">FEELS_LIKE</th>
+                    <th style="width: 22%;">HUMIDITY</th>
+                     <th style="width: 22%;">MAX_TEMP</th>
+                    <th style="width: 22%;">MIN_TEMP</th>
+                    <th style="width: 22%;">SUNRISE</th>
+                    <th style="width: 22%;">SUNSET</th>
+                     <th style="width: 22%;">TEMP</th>
+                    <th style="width: 22%;">MIN_TEMP</th>
+                    <th style="width: 22%;">SUNRISE</th>
+
+
+
+CLOUD_PCT
+FEELS_LIKE
+HUMIDITY
+MAX_TEMP
+MIN_TEMP
+SUNRISE
+SUNSET
+TEMP
+WIND_DEGREES
+WIND_SPEED
+
+
+
+"cloud_pct": 7,
+  "temp": 47,
+  "feels_like": 44,
+  "humidity": 9,
+  "min_temp": 47,
+  "max_temp": 47,
+  "wind_speed": 6.15,
+  "wind_degrees": 280,
+  "sunrise": 1718235917,
+  "sunset": 1718285534
